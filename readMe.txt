@@ -5,3 +5,4 @@ This is my first commit to remote repository!!!
 Creating a new branch is quick and simple.
 add merge.
 status test!
+this is a change on branch dev.
